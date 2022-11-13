@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1f439c48-9bb2-4ea4-b2b9-c1d9db8d6e06" name="Administrator@MSSQLSERVER008 2022-06-11 17:28:49" runUser="MSSQLSERVER008\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="bd454a8c-6d30-410a-8ddd-a96b5ebeade3">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\TestResults\Administrator_MSSQLSERVER008 2022-06-11 17_28_49" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="15" executed="15" passed="13" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2022-06-11T17:28:49.0688918+02:00" queuing="2022-06-11T17:28:53.2398918+02:00" start="2022-06-11T17:28:53.8998918+02:00" finish="2022-06-11T17:28:56.3878918+02:00" />
+  <TestDefinitions>
+    <UnitTest name="TestInsertWithLessThan3VerticesToPolygon" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="e82c0de2-105f-b7bf-4ead-1af9dbf81c9a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ce53e89b-14d9-4c26-ad66-81349938643b" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestInsertWithLessThan3VerticesToPolygon" />
+    </UnitTest>
+    <UnitTest name="TestPointToString" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="85d903ef-e8af-53fa-d968-0206a904f44e">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b9ccb063-70da-4702-92d5-e8d08af8baf7" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestPointToString" />
+    </UnitTest>
+    <UnitTest name="TestAreaOfPolygon" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="f314c195-ac22-0b37-d4cb-c3d78603d852">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c52dc2ae-5920-49c9-8c57-352a3c5cc9b7" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestAreaOfPolygon" />
+    </UnitTest>
+    <UnitTest name="TestInsertWithEqualVerticesToPolygon" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="b8c1d272-aad1-fc85-0663-60cb73a59f47">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="00737f0f-7bbe-4d1e-a681-c6fc6346fe57" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestInsertWithEqualVerticesToPolygon" />
+    </UnitTest>
+    <UnitTest name="TestGetXFromPoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="f4679840-e4d2-7c15-7c41-edc70f922329">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="12b040b1-48f4-4619-a20b-490317b18599" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestGetXFromPoint" />
+    </UnitTest>
+    <UnitTest name="TestDistanceOfPoints" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="1b89ed30-7d36-096c-90f9-de459941a913">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="712c5816-3729-4dce-a8df-0d9ad36921a8" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestDistanceOfPoints" />
+    </UnitTest>
+    <UnitTest name="TestTruePolygonInsert" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="9c212210-d323-0e8a-267b-5f000d05bb32">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="8be82554-21c3-48f2-9948-1b9ab68d6980" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestTruePolygonInsert" />
+    </UnitTest>
+    <UnitTest name="TestGetYFromPoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="3ae32d2e-2a4a-6d8c-97c9-f9a48b062efa">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c598765a-6e67-45d9-bd28-19d13e20cd37" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestGetYFromPoint" />
+    </UnitTest>
+    <UnitTest name="TestPolygonTryToInsertStringPoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="6622d7b8-e194-21a5-e5b7-d9d180c60f5f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="e05ed71c-247c-4c0c-abb0-4b72b84d8dce" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestPolygonTryToInsertStringPoint" />
+    </UnitTest>
+    <UnitTest name="TestFalseForPolygonPointInside" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="1b4dbf96-9731-e576-ff96-e31b8a60f6f5">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0b204e68-b221-497e-b9ce-3edec94f5054" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestFalseForPolygonPointInside" />
+    </UnitTest>
+    <UnitTest name="TestPolygonToString" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="c4e17b35-ede1-86ba-1c61-22118f93737d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="2ee1537f-6061-4ed9-bfc9-4ca94c41e3fe" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestPolygonToString" />
+    </UnitTest>
+    <UnitTest name="TestPointTryToInsertDoublePoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="a5968590-10f2-dacf-bc06-bebef087cbe4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="008d318f-6f7f-4cf1-8dcc-1ec235b6542b" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestPointTryToInsertDoublePoint" />
+    </UnitTest>
+    <UnitTest name="TestPolygonTryToInsertDoublePoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="29a6a959-8879-2661-69a9-22f21618a378">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="65a52b87-e460-4bc1-8411-5992452f2900" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestPolygonTryToInsertDoublePoint" />
+    </UnitTest>
+    <UnitTest name="TestPointTryToInsertStringPoint" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="9d41b0b6-7b2e-1651-d7ab-4d423a17f002">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="93dfa2e9-3480-410e-a5b6-6286fa406cf6" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PointTests, UnitTests" name="TestPointTryToInsertStringPoint" />
+    </UnitTest>
+    <UnitTest name="TestTrueForPolygonPointInside" storage="c:\users\administrator\pictures\projekt_bd2_nr1\projekt_bd2_nr1\projekt_bd2_nr1\typydanychprzestrzennych\unittests\bin\debug\unittests.dll" id="63913b23-6834-88a6-6920-cee4fe6abc21">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="161552b6-3be9-4523-a10a-438b4612d383" />
+      <TestMethod codeBase="C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TwoDimensionalUnitTests.PolygonTests, UnitTests" name="TestTrueForPolygonPointInside" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1b4dbf96-9731-e576-ff96-e31b8a60f6f5" executionId="0b204e68-b221-497e-b9ce-3edec94f5054" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b89ed30-7d36-096c-90f9-de459941a913" executionId="712c5816-3729-4dce-a8df-0d9ad36921a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29a6a959-8879-2661-69a9-22f21618a378" executionId="65a52b87-e460-4bc1-8411-5992452f2900" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ae32d2e-2a4a-6d8c-97c9-f9a48b062efa" executionId="c598765a-6e67-45d9-bd28-19d13e20cd37" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63913b23-6834-88a6-6920-cee4fe6abc21" executionId="161552b6-3be9-4523-a10a-438b4612d383" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6622d7b8-e194-21a5-e5b7-d9d180c60f5f" executionId="e05ed71c-247c-4c0c-abb0-4b72b84d8dce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85d903ef-e8af-53fa-d968-0206a904f44e" executionId="b9ccb063-70da-4702-92d5-e8d08af8baf7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9c212210-d323-0e8a-267b-5f000d05bb32" executionId="8be82554-21c3-48f2-9948-1b9ab68d6980" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d41b0b6-7b2e-1651-d7ab-4d423a17f002" executionId="93dfa2e9-3480-410e-a5b6-6286fa406cf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5968590-10f2-dacf-bc06-bebef087cbe4" executionId="008d318f-6f7f-4cf1-8dcc-1ec235b6542b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b8c1d272-aad1-fc85-0663-60cb73a59f47" executionId="00737f0f-7bbe-4d1e-a681-c6fc6346fe57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c4e17b35-ede1-86ba-1c61-22118f93737d" executionId="2ee1537f-6061-4ed9-bfc9-4ca94c41e3fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e82c0de2-105f-b7bf-4ead-1af9dbf81c9a" executionId="ce53e89b-14d9-4c26-ad66-81349938643b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f314c195-ac22-0b37-d4cb-c3d78603d852" executionId="c52dc2ae-5920-49c9-8c57-352a3c5cc9b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f4679840-e4d2-7c15-7c41-edc70f922329" executionId="12b040b1-48f4-4619-a20b-490317b18599" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0b204e68-b221-497e-b9ce-3edec94f5054" testId="1b4dbf96-9731-e576-ff96-e31b8a60f6f5" testName="TestFalseForPolygonPointInside" computerName="MSSQLSERVER008" duration="00:00:00.0291569" startTime="2022-06-11T17:28:54.0168918+02:00" endTime="2022-06-11T17:28:54.4858918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="712c5816-3729-4dce-a8df-0d9ad36921a8" testId="1b89ed30-7d36-096c-90f9-de459941a913" testName="TestDistanceOfPoints" computerName="MSSQLSERVER008" duration="00:00:00.0056062" startTime="2022-06-11T17:28:54.5068918+02:00" endTime="2022-06-11T17:28:54.5218918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="65a52b87-e460-4bc1-8411-5992452f2900" testId="29a6a959-8879-2661-69a9-22f21618a378" testName="TestPolygonTryToInsertDoublePoint" computerName="MSSQLSERVER008" duration="00:00:00.0181916" startTime="2022-06-11T17:28:54.5258918+02:00" endTime="2022-06-11T17:28:54.5468918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Polygon": 
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+System.FormatException: 
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w Polygon.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c598765a-6e67-45d9-bd28-19d13e20cd37" testId="3ae32d2e-2a4a-6d8c-97c9-f9a48b062efa" testName="TestGetYFromPoint" computerName="MSSQLSERVER008" duration="00:00:00.0029690" startTime="2022-06-11T17:28:54.5508918+02:00" endTime="2022-06-11T17:28:54.5568918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="161552b6-3be9-4523-a10a-438b4612d383" testId="63913b23-6834-88a6-6920-cee4fe6abc21" testName="TestTrueForPolygonPointInside" computerName="MSSQLSERVER008" duration="00:00:00.0041417" startTime="2022-06-11T17:28:54.5588918+02:00" endTime="2022-06-11T17:28:54.5658918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e05ed71c-247c-4c0c-abb0-4b72b84d8dce" testId="6622d7b8-e194-21a5-e5b7-d9d180c60f5f" testName="TestPolygonTryToInsertStringPoint" computerName="MSSQLSERVER008" duration="00:00:00.0023483" startTime="2022-06-11T17:28:54.5688918+02:00" endTime="2022-06-11T17:28:54.5738918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Polygon": 
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+System.FormatException: 
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w Polygon.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b9ccb063-70da-4702-92d5-e8d08af8baf7" testId="85d903ef-e8af-53fa-d968-0206a904f44e" testName="TestPointToString" computerName="MSSQLSERVER008" duration="00:00:00.0057548" startTime="2022-06-11T17:28:54.5768918+02:00" endTime="2022-06-11T17:28:54.5938918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8be82554-21c3-48f2-9948-1b9ab68d6980" testId="9c212210-d323-0e8a-267b-5f000d05bb32" testName="TestTruePolygonInsert" computerName="MSSQLSERVER008" duration="00:00:00.0037113" startTime="2022-06-11T17:28:54.5968918+02:00" endTime="2022-06-11T17:28:54.6028918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="93dfa2e9-3480-410e-a5b6-6286fa406cf6" testId="9d41b0b6-7b2e-1651-d7ab-4d423a17f002" testName="TestPointTryToInsertStringPoint" computerName="MSSQLSERVER008" duration="00:00:00.0022502" startTime="2022-06-11T17:28:54.6058918+02:00" endTime="2022-06-11T17:28:54.6108918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Point": 
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+System.FormatException: 
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w Point.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="008d318f-6f7f-4cf1-8dcc-1ec235b6542b" testId="a5968590-10f2-dacf-bc06-bebef087cbe4" testName="TestPointTryToInsertDoublePoint" computerName="MSSQLSERVER008" duration="00:00:00.0021846" startTime="2022-06-11T17:28:54.6138918+02:00" endTime="2022-06-11T17:28:54.6178918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Point": 
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+System.FormatException: 
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w Point.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="00737f0f-7bbe-4d1e-a681-c6fc6346fe57" testId="b8c1d272-aad1-fc85-0663-60cb73a59f47" testName="TestInsertWithEqualVerticesToPolygon" computerName="MSSQLSERVER008" duration="00:00:00.0019986" startTime="2022-06-11T17:28:54.6208918+02:00" endTime="2022-06-11T17:28:54.6258918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Polygon": 
+System.ArgumentException: Invalid Polygon. Some vertices are equal.
+System.ArgumentException: 
+   w Polygon.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2ee1537f-6061-4ed9-bfc9-4ca94c41e3fe" testId="c4e17b35-ede1-86ba-1c61-22118f93737d" testName="TestPolygonToString" computerName="MSSQLSERVER008" duration="00:00:00.0859611" startTime="2022-06-11T17:28:54.6288918+02:00" endTime="2022-06-11T17:28:54.7178918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;[0;0][0;2][4;2][4;0]&gt;. Actual:&lt;[0;0][2;2][3;0]&gt;. </Message>
+          <StackTrace>   w TwoDimensionalUnitTests.PolygonTests.TestPolygonToString() w C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\PolygonTests.cs:wiersz 109
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ce53e89b-14d9-4c26-ad66-81349938643b" testId="e82c0de2-105f-b7bf-4ead-1af9dbf81c9a" testName="TestInsertWithLessThan3VerticesToPolygon" computerName="MSSQLSERVER008" duration="00:00:00.0024667" startTime="2022-06-11T17:28:54.7278918+02:00" endTime="2022-06-11T17:28:54.7328918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Test Passed
+A .NET Framework error occurred during execution of user-defined routine or aggregate "Polygon": 
+System.ArgumentException: Invalid Polygon. Provide more then 3 vertices.
+System.ArgumentException: 
+   w Polygon.Parse(SqlString value)
+.
+The statement has been terminated.</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c52dc2ae-5920-49c9-8c57-352a3c5cc9b7" testId="f314c195-ac22-0b37-d4cb-c3d78603d852" testName="TestAreaOfPolygon" computerName="MSSQLSERVER008" duration="00:00:00.0130417" startTime="2022-06-11T17:28:54.7358918+02:00" endTime="2022-06-11T17:28:54.7638918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;8&gt;. Actual:&lt;3&gt;. </Message>
+          <StackTrace>   w TwoDimensionalUnitTests.PolygonTests.TestAreaOfPolygon() w C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\UnitTests\PolygonTests.cs:wiersz 132
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="12b040b1-48f4-4619-a20b-490317b18599" testId="f4679840-e4d2-7c15-7c41-edc70f922329" testName="TestGetXFromPoint" computerName="MSSQLSERVER008" duration="00:00:00.0024971" startTime="2022-06-11T17:28:54.7748918+02:00" endTime="2022-06-11T17:28:54.7798918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainApp\bin\Debug\MainApp.exe
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainApp\obj\Debug\MainApp.exe
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainApp\obj\Debug\MainApp.pdb
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainProgram\obj\Debug\MainApp.exe
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TypyDanychPrzestrzennych\MainProgram\obj\Debug\MainApp.pdb
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TwoDimensionalTypeData\MainProgram\bin\Debug\MainApp.exe
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TwoDimensionalTypeData\MainProgram\bin\Debug\MainApp.pdb
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TwoDimensionalTypeData\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TwoDimensionalTypeData\MainProgram\obj\Debug\MainApp.exe
+C:\Users\Administrator\Pictures\Projekt_BD2_nr1\Projekt_BD2_nr1\Projekt_BD2_nr1\TwoDimensionalTypeData\MainProgram\obj\Debug\MainApp.pdb

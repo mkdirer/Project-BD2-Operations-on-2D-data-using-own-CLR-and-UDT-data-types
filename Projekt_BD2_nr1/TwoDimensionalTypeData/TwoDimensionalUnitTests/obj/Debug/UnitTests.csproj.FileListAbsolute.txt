@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\newDB2D\TypyDanychPrzestrzennych\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\newDB2D\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Administrator\Desktop\newDB2D\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Administrator\Desktop\newDB2D\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Administrator\Desktop\newDB2D\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Administrator\Music\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Administrator\Music\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Administrator\Music\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Music\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Administrator\Music\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Administrator\Pictures\BD2_project(2)\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Administrator\Pictures\BD2_project(2)\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Administrator\Pictures\BD2_project(2)\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Pictures\BD2_project(2)\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Administrator\Pictures\BD2_project(2)\BD2_project(2)\BD2_project-main\TypyDanychPrzestrzennych\UnitTests\obj\Debug\UnitTests.pdb
